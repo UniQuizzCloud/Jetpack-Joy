@@ -1,7 +1,7 @@
 {
-  "name": "Skate Hooligans",
-  "short_name": "Hooligans",
-  "description": "Cowabunga! Little hooligans are on the way! Choose your hero and arrange an amazing disorder ^_^ Collect coins, buy cool skateboards, open new locations and get scores as much as you can.",
+  "name": "Relic Runway",
+  "short_name": "Relic Runway",
+  "description": "Are you ready for crazy adventures? Run as far as you can, collect coins, upgrade useful bonuses, pick up parts of ancient relics, unlock amazing characters, and compete with your friends to be the best relic runner!",
   "icons": [
     {
       "src": "../img/android-chrome-192x192.png",
@@ -15,10 +15,10 @@
     }
   ],
   "theme_color": "#ffffff",
-  "background_color": "#44cdf4",
-  "id": "/hooligans/",
-  "start_url": "/hooligans/?homescreen=1",
+  "background_color": "#ffffff",
+  "id": "/relicrunway/",
+  "start_url": "/relicrunway/?homescreen=1",
   "display": "fullscreen",
   "orientation": "any",
-  "gcm_sender_id": "103953800507"
+    "gcm_sender_id": "103953800507"
 }
